@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Entrenamientos",
+  "description": "Aplicación de una sola sección para registrar entrenamientos en Google Sheets mediante Google Apps Script, consultar los últimos registros y comparar el progreso semanal por usuario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
